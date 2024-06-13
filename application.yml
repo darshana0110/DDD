@@ -1,0 +1,5 @@
+#spring.application.name=booklibrary
+spring.datasource.url=jdbc:mysql://localhost:3306/June13?useSSL=false&createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true
+spring.datasource.username=root
+spring.datasource.password=DarD@0110
+spring.jpa.hibernate.ddl-auto=update
